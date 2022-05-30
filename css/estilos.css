@@ -1,0 +1,13 @@
+table {
+    width: 100%;
+}
+
+th, tr, td {
+    border: 1px solid grey;
+    text-align: center;
+    padding: 20px;
+}
+
+.qtde {
+    width: 60px;
+}
